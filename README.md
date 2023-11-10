@@ -6,6 +6,8 @@ This is a [Marp](https://marp.app/) template that includes
 - [Plugin for loading files](https://github.com/camelaissani/markdown-it-include) (e.g. use code snippets)
 - Sensible defaults
 
+[Demo](https://cupcakearmy.github.io/marp-template)
+
 ## Install
 
 > Uses [bun](https://bun.sh/).
@@ -23,3 +25,7 @@ bun run build
 bun run serve
 # http://localhost
 ```
+
+## Host
+
+You can just push the built `index.html` and enable github pages for the root of the repo to get a hosted version.
