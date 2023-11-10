@@ -1,0 +1,3 @@
+engine: ./engine.mjs
+output: index.html
+theme: ./theme.css

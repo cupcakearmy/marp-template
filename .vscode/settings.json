@@ -1,0 +1,9 @@
+{
+  "cSpell.words": ["marp", "marpit", "Marpit"],
+  "markdown.marp.themes": [
+    "https://raw.githubusercontent.com/rnd195/my-marp-themes/live/gradient.css",
+    "https://raw.githubusercontent.com/rainbowflesh/Rose-Pine-For-Marp/master/css/rose-pine-dawn.css",
+    "https://raw.githubusercontent.com/rainbowflesh/Rose-Pine-For-Marp/master/css/rose-pine-moon.css",
+    "https://raw.githubusercontent.com/rainbowflesh/Rose-Pine-For-Marp/master/css/rose-pine.css"
+  ]
+}
