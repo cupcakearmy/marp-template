@@ -1,4 +1,4 @@
-engine: ./engine.mjs
+engine: ./engine.js
 output: index.html
 themeSet:
   - themes/rose-pine-dawn.css
