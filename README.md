@@ -3,7 +3,7 @@
 This is a [Marp](https://marp.app/) template that includes
 
 - [Rose Pine theme](https://github.com/rainbowflesh/Rose-Pine-For-Marp)
-- [Plugin for loading files](https://github.com/camelaissani/markdown-it-include) (e.g. use code snippets)
+- [Plugin for loading files](https://github.com/cupcakearmy/markdown-it-import) (e.g. use code snippets)
 - Sensible defaults
 
 [Demo](https://cupcakearmy.github.io/marp-template)
