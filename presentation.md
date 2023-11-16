@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: rose-pine-moon
+theme: rose-pine
 author: cupcakearmy
 footer: Some footer
 paginate: true
@@ -35,7 +35,7 @@ _paginate: false
 _footer: ''
 -->
 
-## ![bg](./images/keynote.jpg)
+## ![bg](./assets/keynote.jpg)
 
 ---
 

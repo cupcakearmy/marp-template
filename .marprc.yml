@@ -1,3 +1,6 @@
 engine: ./engine.mjs
 output: index.html
-theme: ./theme.css
+themeSet:
+  - themes/rose-pine-dawn.css
+  - themes/rose-pine-moon.css
+  - themes/rose-pine.css
