@@ -42,5 +42,5 @@ _footer: ''
 # Some code
 
 ```ts
-#include(./src/example.ts)
+@import(./snippets/sum.ts)
 ```

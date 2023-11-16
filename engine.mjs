@@ -1,8 +1,3 @@
-import include from 'markdown-it-include'
+import { importPlugin } from '@nicco.io/markdown-it-import'
 
-const options = {
-  includeRe: /#include(.+)/,
-  bracesAreOptional: true,
-}
-
-export default ({ marp }) => marp.use(include, options)
+export default ({ marp }) => marp.use(importPlugin)

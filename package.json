@@ -1,16 +1,13 @@
 {
   "type": "module",
   "scripts": {
-    "build": "bunx @marp-team/marp-cli@latest presi.md",
+    "build": "bunx @marp-team/marp-cli@latest presentation.md",
     "dev": "conc bun:watch bun:serve",
     "serve": "bunx serve@latest . -p 80",
     "watch": "bun run build -w"
   },
   "devDependencies": {
-    "@tsconfig/strictest": "latest",
-    "bun-types": "latest",
-    "concurrently": "^8.2.2",
-    "markdown-it-include": "^2.0.0",
-    "typescript": "latest"
+    "@nicco.io/markdown-it-import": "latest",
+    "concurrently": "latest"
   }
 }
